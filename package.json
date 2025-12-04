@@ -1,0 +1,26 @@
+{
+  "name": "weather-forecast-app",
+  "version": "1.0.0",
+  "description": "Mobile application with React Native and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "keywords": ["react-native", "typescript", "mobile"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@types/react": "^18.2.42",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.3.3"
+  }
+}
