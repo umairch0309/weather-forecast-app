@@ -47,3 +47,26 @@ weather-forecast-app/
 ## License
 
 MIT
+
+
+## Features
+
+- Professional mobile architecture
+- TypeScript/JavaScript implementation
+- Modern development practices
+- Scalable and maintainable codebase
+
+## Recent Updates
+
+- Enhanced project structure
+- Improved documentation
+- Added example code files
+- Updated configuration files
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+MIT License - see LICENSE file for details
